@@ -47,3 +47,9 @@ package.json
 /man/
 /share/
 /src/
+
+#env
+.env
+env
+venv 
+.venv
